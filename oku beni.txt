@@ -1,0 +1,10 @@
+cmd açýp bunlarý kurmanýz gerekli
+pip install slowprint 
+pip install simplejson 
+pip install pystyle 
+pip install rich
+
+pip install -r requirements.txt
+
+Yaptýkdan Sonra enough.py açýn
+py enough.py
