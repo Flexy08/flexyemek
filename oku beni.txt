@@ -1,4 +1,5 @@
-cmd açýp bunlarý kurmanýz gerekli
+cmd açıp bunları kurmanız gerekli
+pip install pycryptodome
 pip install slowprint 
 pip install simplejson 
 pip install pystyle 
@@ -6,5 +7,7 @@ pip install rich
 
 pip install -r requirements.txt
 
-Yaptýkdan Sonra flexy.py açýn
+Yaptıkdan Sonra flexy.py açýn
 py flexy.py
+
+DC: Flexy#1000
