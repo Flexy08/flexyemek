@@ -1,4 +1,4 @@
-cmd açıp bunları kurmanız gerekli
+cmd aÃ§Ã½p bunlarÃ½ kurmanÃ½z gerekli
 pip install slowprint 
 pip install simplejson 
 pip install pystyle 
@@ -6,5 +6,5 @@ pip install rich
 
 pip install -r requirements.txt
 
-Yaptıkdan Sonra enough.py açın
-py enough.py
+YaptÃ½kdan Sonra flexy.py aÃ§Ã½n
+py flexy.py
